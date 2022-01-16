@@ -55,7 +55,3 @@ The slides and full report can be found here: [Wayfair Usability Report](https:/
 <p align="center"><img src="wayfair_images/14.png" alt="Recommendations"
 	title="Recommendations" />
 </p>
-
-<p align="center"><img src="wayfair_images/15.png" alt="Thank you"
-	title="Thank you" />
-</p>
